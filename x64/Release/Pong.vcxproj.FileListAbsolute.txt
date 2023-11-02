@@ -1,0 +1,3 @@
+D:\dev\Pong\x64\Release\Pong.vcxproj.CopyComplete
+D:\dev\Pong\x64\Release\Pong.exe
+D:\dev\Pong\x64\Release\raylib.dll
